@@ -18,7 +18,8 @@ class PDFCompressorApp:
         """
         self.root = root
         self.root.title("PDF Compressor")
-        self.root.geometry("550x350")
+        # Increased height from 350 to 400 to prevent button cutoff
+        self.root.geometry("550x400")
         self.root.resizable(False, False)
         
         # Style configuration
