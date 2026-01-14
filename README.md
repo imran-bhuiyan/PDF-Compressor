@@ -2,7 +2,6 @@
 
 A lightweight PDF compression utility for reducing PDF file sizes while preserving readable quality. This repository provides a command-line interface (CLI) and a Python library interface to compress PDF files in batch or from within applications.
 
-> NOTE: This README is a template — update the commands, package names, and dependency notes to match this repository's actual implementation.
 
 ## Features
 
